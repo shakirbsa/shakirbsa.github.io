@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shakirbsa.github.io/static/css/main.218d950f.css",
+    "main.js": "/shakirbsa.github.io/static/js/main.8970d8ce.js",
+    "static/js/787.7058240f.chunk.js": "/shakirbsa.github.io/static/js/787.7058240f.chunk.js",
+    "static/media/HolyMolly.ttf": "/shakirbsa.github.io/static/media/HolyMolly.922f74d6c1def1d7b92e.ttf",
+    "index.html": "/shakirbsa.github.io/index.html",
+    "main.218d950f.css.map": "/shakirbsa.github.io/static/css/main.218d950f.css.map",
+    "main.8970d8ce.js.map": "/shakirbsa.github.io/static/js/main.8970d8ce.js.map",
+    "787.7058240f.chunk.js.map": "/shakirbsa.github.io/static/js/787.7058240f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.218d950f.css",
+    "static/js/main.8970d8ce.js"
+  ]
+}
